@@ -4,8 +4,8 @@ layout: post
 title: N1安装armbian-docker部署openwrt
 subtitle: n1刷机操作
 description: N1 作为这么强的一个盒子，光用来做旁路由实在太浪费了，今天教大家使用 N1 安装 armbian 系统（linux），安装 docker，部署 openwrt 等系列服务
-image: /assets/img/post-n1-cover2.jpg
-optimized_image: /assets/img/post-n1-cover2.jpg
+image: https://i.loli.net/2020/03/12/gLOMVTwsa6NSk8B.png #/assets/img/post-n1-cover2.jpg
+optimized_image: https://i.loli.net/2020/03/12/gLOMVTwsa6NSk8B.png #/assets/img/post-n1-cover2.jpg
 category: nI
 tags:
   - nI
