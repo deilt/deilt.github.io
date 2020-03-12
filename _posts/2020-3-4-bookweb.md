@@ -4,8 +4,8 @@ layout: post
 title: BOOK
 subtitle: BOOK web
 description: link
-image: assets/img/post-book-cover.jpg
-optimized_image: assets/img/post-book-cover.jpg
+image: /assets/img/post-book-cover.jpg
+optimized_image: /assets/img/post-book-cover.jpg
 category: web
 tags:
   - web
