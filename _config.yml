@@ -1,14 +1,14 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Deilt
+title: Deilt'S Blog
+description: WELCOME TO MY BLOG
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
+  - web
+  - N
+  - movie
+  - others
+email: cdeilt@gmail.com
 disqus_username: disqus_username
 show_hero: true
 menu:
@@ -24,12 +24,12 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: deilt
+facebook_username: deilt
+twitter_username: deilt
+instagram_username: deilt
+linkedin_username: deilt
+medium_username: deilt
 
 
 # Posts Settings
@@ -42,7 +42,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-153571650-1"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
@@ -100,4 +100,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.0.2
+#version: v3.0.2
