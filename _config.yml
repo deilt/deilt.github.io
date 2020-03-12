@@ -43,7 +43,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-153571650-1"
-language: "en"
+language: "zh"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
