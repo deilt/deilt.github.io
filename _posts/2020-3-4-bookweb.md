@@ -1,12 +1,16 @@
-layout:     post
-title:      BOOK
-subtitle:   paper
-date:       2020-3-4
-author:     deilt
-header-img: img/post-book-cover.jpg
-catalog: true
+---
+date: 2010-03-04 12:26:40
+layout: post
+title: BOOK
+subtitle: BOOK web
+description: link
+image: assets/img/post-book-cover.jpg
+optimized_image: assets/img/post-book-cover.jpg
+category: web
 tags:
-    - book
+  - web
+  - tips
+author: deilt
 ---
 
 ## KunBook
