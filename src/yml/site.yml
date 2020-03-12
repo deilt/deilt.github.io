@@ -1,0 +1,21 @@
+name: Diego
+title: Coflow
+description: Diegofornalha
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+email: youremail@xyz.com
+disqus_username: disqus_username
