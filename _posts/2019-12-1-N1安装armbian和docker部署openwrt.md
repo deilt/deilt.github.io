@@ -1,16 +1,17 @@
 ---
-layout:     post
-title:      N1安装armbian-docker部署openwrt
-subtitle:   n1刷机操作
-date:       2019-12-1
-author:     deilt
-header-img: img/post-n1-cover2.jpg
-catalog: true
+date: 2019-12-01 12:26:40
+layout: post
+title: N1安装armbian-docker部署openwrt
+subtitle: n1刷机操作
+description: N1 作为这么强的一个盒子，光用来做旁路由实在太浪费了，今天教大家使用 N1 安装 armbian 系统（linux），安装 docker，部署 openwrt 等系列服务
+image: assets/img/post-n1-cover2.jpg
+optimized_image: assets/img/post-n1-cover2.jpg
+category: nI
 tags:
-    - n1
+  - nI
+  - tips
+author: deilt
 ---
-
-
 
 
 
