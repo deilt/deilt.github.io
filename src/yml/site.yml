@@ -17,5 +17,6 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@xyz.com
+email: deilt@gmail.com
 disqus_username: disqus_username
+paginate: 30
