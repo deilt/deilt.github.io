@@ -20,7 +20,8 @@ author: deilt
 
 ### 对于视频/电影/电视节目：
 
-```intext:"Search Term" intitle:"index.of" +(wmv|mpg|avi|mp4|mkv|mov) -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml)
+```
+intext:"Search Term" intitle:"index.of" +(wmv|mpg|avi|mp4|mkv|mov) -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml)
 ```
 
 ### 图片 ：
@@ -40,4 +41,5 @@ intext:"Search Term" intitle:"index.of./" (ac3|flac|m4a|mp3|ogg|wav|wma) -inurl:
 ```
 intitle:"Search Term" (pdf|epub|mob) "name or title" -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml)
 ```
+
 您也可以类似地找到Google Drive共享文件。
