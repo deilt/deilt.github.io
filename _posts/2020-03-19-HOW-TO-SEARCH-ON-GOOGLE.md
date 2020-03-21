@@ -4,8 +4,8 @@ layout: post
 title: how to search on google 
 subtitle: searching 
 description: Manually Searching OpenDirectories on Google
-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fsearchengineland.com%2Fgoogle-patent-question-answering-using-entity-references-unstructured-data-267273&psig=AOvVaw3K4JTrmRyni6ZNxVSd3stF&ust=1584864011333000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDQ092Mq-gCFQAAAAAdAAAAABAN
-optimized_image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fsearchengineland.com%2Fgoogle-patent-question-answering-using-entity-references-unstructured-data-267273&psig=AOvVaw0nT0jr3tkkhY5Mk19oLK9d&ust=1584864094997000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC44fyMq-gCFQAAAAAdAAAAABAD
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStKoQaCZTPpOdETx3iOGLhsHZDS6lIgjioyaBMzKzymTgBRyhh
+optimized_image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStKoQaCZTPpOdETx3iOGLhsHZDS6lIgjioyaBMzKzymTgBRyhh
 category: search
 tags:
   - search
