@@ -4,8 +4,8 @@ layout: post
 title: how to search on google 
 subtitle: searching 
 description: Manually Searching OpenDirectories on Google
-image: https://i.loli.net/2020/03/12/vPJ8gmzxC4RZji6.png
-optimized_image: https://i.loli.net/2020/03/12/vPJ8gmzxC4RZji6.png
+image: https://i.loli.net/2020/03/21/BfM8sPLt1QqyxdE.png
+optimized_image: https://i.loli.net/2020/03/21/BfM8sPLt1QqyxdE.png
 category: search
 tags:
   - search
