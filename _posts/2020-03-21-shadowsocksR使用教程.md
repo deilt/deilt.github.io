@@ -27,9 +27,8 @@ MAC客户端:<https://github.com/qinyuhang/ShadowsocksX-NG-R/releases>
 # win教程
 1. 安装客户端：找到下载的安装程序，找一个合适的目录解压（不建议放在C盘的”Program Files”目录，会有权限问题），不要在压缩包里双击运行！
 
-2. 双击文件夹内的“ShadowsocksR-dotnet4.0.exe”文件运行程序，系统防火墙可能会弹出提示，点击“允许访问”：
-
-如果双击程序没有反应，托盘（托盘就是桌面右下角，显示时间输入法那块）里也没有小飞机的图标，请先更新系统并安装 [.NET Framework 4.7.2](https://www.microsoft.com/en-us/download/details.aspx?id=53840) 和 [Microsoft Visual C++ 2015 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=53840)。
+2. 双击文件夹内的“ShadowsocksR-dotnet4.0.exe”文件运行程序，系统防火墙可能会弹出提示，点击“允许访问”;  
+   如果双击程序没有反应，托盘（托盘就是桌面右下角，显示时间输入法那块）里也没有小飞机的图标，请先更新系统并安装 [.NET Framework 4.7.2](https://www.microsoft.com/en-us/download/details.aspx?id=53840) 和 [Microsoft Visual C++ 2015 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=53840)。
 
 3. 右下角托盘找到小飞机图标，鼠标左键点击图标，出现服务器配置框
 
