@@ -20,9 +20,9 @@ ShadowsocksR常被称为SSR、酸酸乳、小飞机（粉色）、纸飞机（�
 # 下载
 win: <https://github.com/shadowsocksrr/shadowsocksr-csharp/releases>
 
-安卓客户端：<https://github.com/shadowsocksrr/shadowsocksr-android/releases>
+安卓客户端:<https://github.com/shadowsocksrr/shadowsocksr-android/releases>
 
-MAC客户端：<https://github.com/qinyuhang/ShadowsocksX-NG-R/releases>
+MAC客户端:<https://github.com/qinyuhang/ShadowsocksX-NG-R/releases>
 
 # win教程
 1. 安装客户端：找到下载的安装程序，找一个合适的目录解压（不建议放在C盘的”Program Files”目录，会有权限问题），不要在压缩包里双击运行！
@@ -31,7 +31,7 @@ MAC客户端：<https://github.com/qinyuhang/ShadowsocksX-NG-R/releases>
 
 如果双击程序没有反应，托盘（托盘就是桌面右下角，显示时间输入法那块）里也没有小飞机的图标，请先更新系统并安装 [.NET Framework 4.7.2](https://www.microsoft.com/en-us/download/details.aspx?id=53840) 和 [Microsoft Visual C++ 2015 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=53840)。
 
-3. 右下角托盘找到小飞机图标，鼠标左键点击图标，出现服务器配置框：
+3. 右下角托盘找到小飞机图标，鼠标左键点击图标，出现服务器配置框
 
 如果你用的订阅地址，请参考第8步。
 
