@@ -43,3 +43,6 @@ intitle:"Search Term" (pdf|epub|mob) "name or title" -inurl:(jsp|pl|php|html|asp
 ```
 
 您也可以类似地找到Google Drive共享文件。
+[shared floders](https://www.google.com/search?q=site%3Adrive.google.com+%2B%22drive%2Ffolders%22)
+[Shared everything](https://www.google.com/search?q=site%3Adrive.google.com)
+
