@@ -30,7 +30,7 @@ author: deilt
 | [sorry,we missed you]() | 2020 | a family,with two childs,which lives in the bottom of the society struggles for living in Britsh. |
 | []() |  |  |
 | []() |  |  |
-| []() |  |  || []() |  |  |
+| []() |  |  |
 | []() |  |  |
 | []() |  |  |
 
