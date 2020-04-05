@@ -32,7 +32,11 @@ author: deilt
 | 书写时      | 原始文字     |  可以不用对整齐 |
 *斜体*      | **加粗**     | `渲染效果`
 
-
+| Movies       | Time           | Brief |
+|:-------------  |  :---------:| :----:|
+| [寄生虫（Gisaengchung）](https://www.imdb.com/title/tt6751668/?ref_=hm_fanfav_tt_2_pd_fp1)   | 2019  |  A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. But their easy life gets complicated when their deception is threatened with exposure.     |
+| 书写时      | 原始文字     |  可以不用对整齐 |
+*斜体*      | **加粗**     | `渲染效果`
 
 ## 科幻 Sci-Fic
 | Movies       | Time     | Brief              |
