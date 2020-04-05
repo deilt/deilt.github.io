@@ -16,7 +16,6 @@ author: deilt
 # 精选电影
 
 ## 动画 Animation
-
 | Movies       | Time     | Brief              |
 | :-------------  |  :---------:| :------:|
 | [1/2的魔法（Onward）](https://www.imdb.com/title/tt7146812/?ref_=hm_fanfav_tt_17_pd_fp1) | 2020 | Two elven brothers embark on a quest to bring their father back for one day. |
@@ -36,19 +35,25 @@ author: deilt
 
 
 ## 科幻 Sci-Fic
-| Movies | Time | Brief |
-| ------ | ------ | ------ |
-| []() |  |  |
+| Movies       | Time     | Brief              |
+| :-------------  |  :---------:| :------:|
+| 靠左对齐   | 居中对齐  | 靠右对齐     |
+| 书写时      | 原始文字     |  可以不用对整齐 |
+*斜体*      | **加粗**     | `渲染效果`
 
 
 
 ## 战争 WAR
-| Movies | Time | Brief |
-| ------ | ------ | ------ |
-| []() |  |  |
+| Movies       | Time     | Brief              |
+| :-------------  |  :---------:| :------:|
+| 靠左对齐   | 居中对齐  | 靠右对齐     |
+| 书写时      | 原始文字     |  可以不用对整齐 |
+*斜体*      | **加粗**     | `渲染效果`
 
 
 ## 动作 Action
-| Movies | Time | Brief |
-| ------ | ------ | ------ |
-| []() |  |  |
+| Movies       | Time     | Brief              |
+| :-------------  |  :---------:| :------:|
+| 靠左对齐   | 居中对齐  | 靠右对齐     |
+| 书写时      | 原始文字     |  可以不用对整齐 |
+*斜体*      | **加粗**     | `渲染效果`
