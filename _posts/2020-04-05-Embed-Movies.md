@@ -1,11 +1,11 @@
 ---
 date: 2020-04-05 18:26:40
 layout: post
-title: Featured Movies
+title: Embed Movies Test
 subtitle: movie 
-description: 精选电影
-image: https://lh3.googleusercontent.com/proxy/2iRodV1rLhTXAf8AxbLSRoMg1L5m8vOjf2-3jjYdmL2-PshpoKTfkdxy_irXtP0i5ALmG2-CySUd_e6PuLN7AcehcbRUnpoWN3S_YW5UmDYXhTDBI7QQ9uc
-optimized_image: https://lh3.googleusercontent.com/proxy/2iRodV1rLhTXAf8AxbLSRoMg1L5m8vOjf2-3jjYdmL2-PshpoKTfkdxy_irXtP0i5ALmG2-CySUd_e6PuLN7AcehcbRUnpoWN3S_YW5UmDYXhTDBI7QQ9uc
+description: test
+image: https://images8.alphacoders.com/829/thumb-1920-829758.jpg
+optimized_image: https://images8.alphacoders.com/829/thumb-1920-829758.jpg
 category: movies
 tags:
   - web
@@ -16,7 +16,10 @@ author: deilt
 
 
 # bilibili
-<iframe src="//player.bilibili.com/player.html?aid=99862272&bvid=BV1k741197yk&cid=170404057&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+\<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+    <iframe src="//player.bilibili.com/player.html?aid=99862272&bvid=BV1k741197yk&cid=170404057&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;">
+    </iframe>
+</div>
 
 
 # youtube 
