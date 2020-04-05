@@ -4,8 +4,8 @@ layout: post
 title: Featured Movies
 subtitle: movie 
 description: 精选电影
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGaNM4lcl9zbGZqWAvcfyp4-dvgEknlgR8rWOQ7Amqm5Ve5x4u&usqp=CAU
-optimized_image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGaNM4lcl9zbGZqWAvcfyp4-dvgEknlgR8rWOQ7Amqm5Ve5x4u&usqp=CAU
+image: https://images7.alphacoders.com/487/thumb-1920-487130.jpg
+optimized_image: https://images7.alphacoders.com/487/thumb-1920-487130.jpg
 category: movies
 tags:
   - web
