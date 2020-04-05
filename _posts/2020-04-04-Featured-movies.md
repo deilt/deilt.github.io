@@ -28,42 +28,19 @@ author: deilt
 | :-------------  |  :---------:| :------:|
 | [寄生虫（Gisaengchung）](https://www.imdb.com/title/tt6751668/?ref_=hm_fanfav_tt_2_pd_fp1) | 2019 | A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. But their easy life gets complicated when their deception is threatened with exposure. |
 | [sorry,we missed you]() | 2020 | a family,with two childs,which lives in the bottom of the society struggles for living in Britsh. |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
+
 
 ## 科幻 Sci-Fic
 | Movies       | Time     | Brief              |
 | :-------------  |  :---------:| :------:|
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
+
 
 
 ## 战争 WAR
 | Movies       | Time     | Brief              |
 | :-------------  |  :---------:| :------:|
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
+
 
 ## 动作 Action
 | Movies       | Time     | Brief              |
 | :-------------  |  :---------:| :------:|
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
