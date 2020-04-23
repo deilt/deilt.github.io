@@ -19,6 +19,9 @@ author: deilt
 
 2.[奈菲影视](https://www.nfmovies.com/)
   [完美影视](https://www.wanmeikk.me/)
+  [Moretv](https://moetv.live/)
+  [低端影视](https://ddrk.me/)
+  [阿房影视](https://epang.ml/)
 
 3.[团长影视](https://tzfile.com/)
 
@@ -61,7 +64,14 @@ author: deilt
 
 8.百度网盘下载助手 <https://www.baiduyun.wiki/zh-cn/>
 
-9.GD 创建<https://teamdrive.xcpx.workers.dev/>
+9.GD 创建 <https://teamdrive.xcpx.workers.dev/>
+<https://td.fastio.me/>
+<https://gd.404edu.workers.dev/>
+<https://gdrive.zppcw.cn/>
+<https://gd.zxd.workers.dev/>
+<https://teamdrive.xcpx.workers.dev/>
+
+10.憨憨网盘 <http://zy.bk201.cf/#00>
 
 # 播放器
 1.[potplayer](http://potplayer.org/)
