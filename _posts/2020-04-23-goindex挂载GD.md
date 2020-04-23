@@ -20,6 +20,11 @@ goindex作者[@donwa](https://github.com/donwa)
 
 [Github源码地址](https://github.com/donwa/goindex)
 
+# Demo 
+
+<https://index.deilt.workers.dev/>
+
+<https://index.rouis.workers.dev/>
 # Goindex 概述 
 
 Google Drive Directory Index
