@@ -13,6 +13,26 @@ tags:
   - gdrive
 author: deilt
 ---
+# 团队盘 Teamdrive
+没有Google Drive团队盘的小伙伴可以自助添加
+
+1. 英国谢菲尔德大学：https://gdrive.zppcw.cn/
+
+2. 404 NOT FOUND：https://gd.404edu.workers.dev/
+
+3. https://gd.zxd.workers.dev/
+
+4. http://leon.educationhost.cloud/
+
+5. swccd.edu团队盘：https://teamdrive.xcpx.workers.dev/
+
+5. 洛杉矶加利福尼亚大学团队盘：https://ucla.ur.workers.dev/
+
+6. 日本国際大学团队盘：https://iuj.ur.workers.dev/
+
+7. 自动创建：https://www.teamdrive.workers.dev
+
+感谢大佬提供的Google Drive团队盘
 
 # GoogleDrive GoIndex部署教程
 
