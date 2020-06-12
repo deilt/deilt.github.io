@@ -73,6 +73,8 @@ author: deilt
 
 10.憨憨网盘 <http://zy.bk201.cf/#00>
 
+11.度云简易分享地址提取<http://pan.naifei.cc/>
+
 # 播放器
 1.[potplayer](http://potplayer.org/)
 
